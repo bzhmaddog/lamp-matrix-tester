@@ -1,8 +1,8 @@
 # lamp-matrix-tester
 
-(/pcb-top.png "PCB")
+![PCB board](pcb-top.png)
 
-Pinball lamp matrix test PCB using 1088AS 8x8 led matrix
+A Pinball lamp matrix testing board using a 1088AS 8x8 led matrix module
 
 Bom:
 
