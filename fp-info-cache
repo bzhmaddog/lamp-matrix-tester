@@ -1,4 +1,4 @@
-22641533643081271
+22643243649773988
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62768,6 +62768,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LampMatrixTesterLibrary
+Led_1088AS_8x8_P2.54mm
+8x8 Led matrix module (rows on cathodes)
+Led matrix 1088
+0
+16
+16
 Library
 Led_1088AS_8x8_P2.54mm
 8x8 Led matrix module (rows on cathodes)

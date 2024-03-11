@@ -1,5 +1,5 @@
 (sym_lib_table
   (version 7)
-  (lib (name "LED_1088as")(type "Legacy")(uri "${KIPRJMOD}/lib_sch/LED_1088as.lib")(options "")(descr ""))
-  (lib (name "LED_1088bs")(type "Legacy")(uri "${KIPRJMOD}/lib_sch/LED_1088bs.lib")(options "")(descr ""))
+  (lib (name "LED_1088as")(type "Legacy")(uri "${KIPRJMOD}/libs/Symbols/LED_1088as.lib")(options "")(descr ""))
+  (lib (name "LED_1088bs")(type "Legacy")(uri "${KIPRJMOD}/libs/Symbols/LED_1088bs.lib")(options "")(descr ""))
 )

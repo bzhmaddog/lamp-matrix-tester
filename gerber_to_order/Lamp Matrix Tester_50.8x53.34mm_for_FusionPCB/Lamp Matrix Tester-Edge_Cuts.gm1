@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.10*%
+%TF.CreationDate,2024-03-11T20:44:17+01:00*%
+%TF.ProjectId,Lamp Matrix Tester,4c616d70-204d-4617-9472-697820546573,1.0*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.10) date 2024-03-11 20:44:17*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X22860000Y-15240000D02*
+X73660000Y-15240000D01*
+X73660000Y-68580000D01*
+X22860000Y-68580000D01*
+X22860000Y-15240000D01*
+M02*

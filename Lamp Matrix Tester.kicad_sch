@@ -4078,7 +4078,7 @@
     (property "Value" "1088AS" (at 91.44 41.91 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Library:Led_1088AS_8x8_P2.54mm" (at 143.51 21.59 0)
+    (property "Footprint" "LampMatrixTesterLibrary:Led_1088AS_8x8_P2.54mm" (at 143.51 21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 143.51 21.59 0)
