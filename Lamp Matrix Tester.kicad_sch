@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "14b38607-3f84-4492-ba81-2c928e8e3b3b")
 	(paper "A4")
+	(title_block
+		(title "Lamp matrix tester")
+		(date "2024-03-16")
+		(rev "1.0")
+		(company "Broken Pipe")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x08"
 			(pin_names
